@@ -1,4 +1,3 @@
 # sdm-demo-repo
 
-This is an edit!
-Boo
+This is an edit !
